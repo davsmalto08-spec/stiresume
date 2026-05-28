@@ -19,6 +19,9 @@ A clean, modern, and fully responsive professional portfolio website built to sh
 
 ---
 ## 📸Screenshot
+<img width="1664" height="921" alt="image" src="https://github.com/user-attachments/assets/e96b092a-8823-4639-b7fc-4c4cc6bbaad2" />
+<img width="946" height="2048" alt="image" src="https://github.com/user-attachments/assets/d463d4ff-3c49-4366-b6e9-d7ed153400d6" />
+
 
 
 
