@@ -7,7 +7,7 @@ A clean, modern, and fully responsive professional portfolio website built to sh
 ---
 
 ## 🔗 Project Links
-*   **GitHub Repository:** https://github.com/davsmalto08-spec/stistudentresumewebsite/tree/main
+*   **GitHub Repository:** https://github.com/davsmalto08-spec/stiresume
 *   **Live Website URL:** https://davsmalto08-spec.github.io/stiresume/
 ---
 
